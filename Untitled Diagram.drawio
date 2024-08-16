@@ -1,0 +1,119 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+  <diagram name="Page-1" id="WQw10z_QC8tLnrAabIa7">
+    <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="caNdG5taeSe3lwHR_F4P-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="caNdG5taeSe3lwHR_F4P-1" target="caNdG5taeSe3lwHR_F4P-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Farah to Send a Broadcast Message (Email &amp;amp; Notification) to all Customers to tell them that handing over is available for Nobels&amp;nbsp;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="80" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="caNdG5taeSe3lwHR_F4P-4" target="caNdG5taeSe3lwHR_F4P-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="caNdG5taeSe3lwHR_F4P-4" target="caNdG5taeSe3lwHR_F4P-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Customer will request an appointment to inspect the apartment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="240" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Customer Service (Approve) ?&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Completed&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="380" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-12" value="Inspection Request&amp;nbsp;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="40" width="420" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Nermin to assign a manager for each tower (Tarek/Maher)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="caNdG5taeSe3lwHR_F4P-12">
+          <mxGeometry x="30" y="150" width="100" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-13" value="Hand-Over Request" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="20" width="980" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="caNdG5taeSe3lwHR_F4P-13" source="caNdG5taeSe3lwHR_F4P-14" target="caNdG5taeSe3lwHR_F4P-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-17" value="Submits" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="caNdG5taeSe3lwHR_F4P-16">
+          <mxGeometry x="-0.3167" y="3" relative="1" as="geometry">
+            <mxPoint x="-4" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-14" value="Customer initiates a Unit Hand-Over Request" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="caNdG5taeSe3lwHR_F4P-13">
+          <mxGeometry x="20" y="50" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="caNdG5taeSe3lwHR_F4P-13" source="caNdG5taeSe3lwHR_F4P-15" target="caNdG5taeSe3lwHR_F4P-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-20" value="Approves" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="caNdG5taeSe3lwHR_F4P-19">
+          <mxGeometry x="-0.1458" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-15" value="Customer Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="caNdG5taeSe3lwHR_F4P-13">
+          <mxGeometry x="210" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="caNdG5taeSe3lwHR_F4P-13" source="caNdG5taeSe3lwHR_F4P-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-30" value="Approves" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="caNdG5taeSe3lwHR_F4P-22">
+          <mxGeometry x="-0.2961" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-18" value="Accounting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="caNdG5taeSe3lwHR_F4P-13">
+          <mxGeometry x="410" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="caNdG5taeSe3lwHR_F4P-13" source="caNdG5taeSe3lwHR_F4P-23" target="caNdG5taeSe3lwHR_F4P-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-38" value="&lt;span style=&quot;font-size: 12px; text-wrap: wrap; background-color: rgb(251, 251, 251);&quot;&gt;Customer Pays&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="caNdG5taeSe3lwHR_F4P-37">
+          <mxGeometry x="-0.2667" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-23" value="Payment Pending" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="caNdG5taeSe3lwHR_F4P-13">
+          <mxGeometry x="610" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="caNdG5taeSe3lwHR_F4P-13" source="caNdG5taeSe3lwHR_F4P-24" target="caNdG5taeSe3lwHR_F4P-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-24" value="Customer Service" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="caNdG5taeSe3lwHR_F4P-13">
+          <mxGeometry x="840" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-28" value="Paid" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="caNdG5taeSe3lwHR_F4P-13">
+          <mxGeometry x="860" y="70" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-34" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;After accounting approves,&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;the request will be payment&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;pending if the service&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;has cost?&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="caNdG5taeSe3lwHR_F4P-13">
+          <mxGeometry x="510" y="150" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-35" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.798;entryY=0.183;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.049;exitY=0.972;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="caNdG5taeSe3lwHR_F4P-13" source="caNdG5taeSe3lwHR_F4P-23" target="caNdG5taeSe3lwHR_F4P-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="280" as="sourcePoint" />
+            <mxPoint x="510" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-39" value="&lt;font size=&quot;1&quot;&gt;After accounting approves, the request will appear for customer service regardless of the payment (done or not), because the customer might pay cash at the collection department&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="caNdG5taeSe3lwHR_F4P-13">
+          <mxGeometry x="500" y="350" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.576;entryY=0.069;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="caNdG5taeSe3lwHR_F4P-13" source="caNdG5taeSe3lwHR_F4P-28" target="caNdG5taeSe3lwHR_F4P-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-41" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.678;exitY=0.189;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="caNdG5taeSe3lwHR_F4P-13" source="caNdG5taeSe3lwHR_F4P-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="330" as="sourcePoint" />
+            <mxPoint x="840" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="caNdG5taeSe3lwHR_F4P-42" value="Pending Review (by customer from the app)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="caNdG5taeSe3lwHR_F4P-13">
+          <mxGeometry x="840" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
